@@ -56,9 +56,3 @@ pip install pygame
 ## 🧠 Créditos
 
 Este projeto foi parcialmente auxiliado por uma IA, que contribuiu na conversão de código Java para Python e na integração dos módulos de interface com os algoritmos.
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
