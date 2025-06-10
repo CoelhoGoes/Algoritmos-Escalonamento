@@ -32,27 +32,6 @@ pip install pygame
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-├── algoritmos/
-│   ├── lru.py
-│   ├── lfu.py
-│   └── fifo.py
-├── interface/
-│   └── visualizacao.py
-├── comparador.py
-├── main.py
-└── README.md
-```
-
-* `algoritmos/`: Implementações individuais dos algoritmos.
-* `interface/`: Interface gráfica usando pygame para ilustrar o comportamento dos algoritmos.
-* `comparador.py`: Lógica de comparação de desempenho entre os algoritmos.
-* `main.py`: Ponto de entrada do programa.
-
----
-
 ## 🧠 Créditos
 
 Este projeto foi parcialmente auxiliado por uma IA, que contribuiu na conversão de código Java para Python e na integração dos módulos de interface com os algoritmos.
