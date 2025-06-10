@@ -109,7 +109,7 @@ while running:
                 race_started = False
                 race_finished = False
                 winner = None
-                xFIFO, x2, x3 = 50, 50, 50
+                xFIFO, xLRU, xLFU = 50, 50, 50
     draw_track()
     draw_info()
     
